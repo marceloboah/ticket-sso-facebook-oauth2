@@ -8,7 +8,13 @@ Clone the projet:
 > git clone https://gitlab.com/marceloboah/first-decision.git
 
 
-### Runniing Backend Java
+### Running Postgrees Database
+
+> cd first-decision
+
+> docker-compose -f docker-compose.yml up
+
+### Running Backend Java
 
 > cd first-decision-backend-fb-app
 
